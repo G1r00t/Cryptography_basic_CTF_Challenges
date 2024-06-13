@@ -7,7 +7,7 @@ Welcome to the **Cryptography Basic CTF Challenges** repository! This collection
 1. [Introduction](#introduction)
 2. [Challenges](#challenges)
     - [Challenge 1: Caesar Cipher](#challenge-1-caesar-cipher)
-    - [Challenge 2: Vigenère Cipher](#challenge-2-mathematics-based)
+    - [Challenge 2: Mathematics Based](#challenge-2-mathematics-based)
     - [Challenge 3: RSA Encryption](#challenge-3-rsa-encryption)
     - [Challenge 4: XOR Encryption](#challenge-4-xor-encryption)
 3. [Setup](#setup)
