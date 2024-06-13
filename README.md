@@ -7,10 +7,9 @@ Welcome to the **Cryptography Basic CTF Challenges** repository! This collection
 1. [Introduction](#introduction)
 2. [Challenges](#challenges)
     - [Challenge 1: Caesar Cipher](#challenge-1-caesar-cipher)
-    - [Challenge 2: Vigenère Cipher](#challenge-2-vigenère-cipher)
+    - [Challenge 2: Vigenère Cipher](#challenge-2-mathematics-based)
     - [Challenge 3: RSA Encryption](#challenge-3-rsa-encryption)
     - [Challenge 4: XOR Encryption](#challenge-4-xor-encryption)
-    - [Challenge 5: Hashing Algorithms](#challenge-5-hashing-algorithms)
 3. [Setup](#setup)
 4. [How to Use](#how-to-use)
 5. [Contributing](#contributing)
@@ -28,11 +27,11 @@ Cryptography is the practice of securing information by transforming it into a s
 
 **Files**: `caesar_cipher.py`
 
-### Challenge 2: Vigenère Cipher
+### Challenge 2: mathematics based
 
-**Description**: Explore the Vigenère Cipher, a method of encrypting text by using a series of different Caesar ciphers based on the letters of a keyword.
+**Description**: Encryption schemes are very much based on mathematics so these are some basic concepts which you will need for understanding further cryptography concepts. 
 
-**Files**: `vigenere_cipher.py`
+**Files**: `mathematics.py`
 
 ### Challenge 3: RSA Encryption
 
@@ -45,12 +44,6 @@ Cryptography is the practice of securing information by transforming it into a s
 **Description**: Understand the XOR encryption technique, which is often used in symmetric key algorithms and simple obfuscation.
 
 **Files**: `xor_encryption.py`
-
-### Challenge 5: Hashing Algorithms
-
-**Description**: Dive into hashing algorithms, such as MD5 and SHA-256, and learn how they are used to ensure data integrity and security.
-
-**Files**: `hashing_algorithms.py`
 
 ## Setup
 
