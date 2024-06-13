@@ -1,0 +1,6 @@
+We found a message in numbers and you need to decrypt it.
+
+Take each number mod 37 and map it to the following character set:
+ 0-25 is the alphabet (lowercase), 26-35 are the decimal digits, and 36 is an underscore.
+
+

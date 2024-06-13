@@ -1,0 +1,49 @@
+The following integers:588,665,216,113,642,4,836,114,851,492,819,237 are successive large powers of an integer x, modulo a three digit prime p.
+
+The Solution
+
+We're given a list of successive modular powers of an element 
+x
+, that means that: 
+ 588.x = 665 (mod p)
+ 665.x = 216 (mod p) and so on...
+and if you look closely you can see :
+113⋅x≡642(modp)and 
+114⋅x≡851(modp).
+
+So, subtracting: x≡851−642=209(modp).
+
+So we've found the value for x.
+
+To find p just take the first equation and replace the value for 
+x : 588⋅209≡665(modp)
+ means that 
+588⋅209−665≡0(modp) so: p|588⋅209−665=122227.
+
+if you factorize the last number you get: 
+122227=7⋅19⋅919.
+The only good cadidate is 
+p=919.
+
+
+588 = x ^ q mod p .....eq1
+665 = x^q+1 mod p .....eq2
+216 = x ^ q+2 mod p ....eq3
+113 = x^q+3 mod p ....eq4
+
+x ^ q = 588 + k1p
+x ^ q+1 = 665 + k2p
+x ^ q+2 = 216 + k3p
+x ^ q+3 = 113 + k4p
+(665 + k2p)^2 = (216 + k3p)(588 + k1p)
+665 * 665 - 216*588 = k5p
+216 *216 - 665 * 113 = k6p
+
+
+
+
+
+
+
+
+

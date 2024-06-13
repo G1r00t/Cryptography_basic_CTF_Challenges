@@ -1,0 +1,8 @@
+You should have learned some encoding mechanisms till now.
+
+What if we merge some of them together.
+
+This time you have to Identify which type of encoding is used.(well only 4 types are used)
+
+(Hint : You will need First to open second)
+

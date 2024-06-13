@@ -1,0 +1,10 @@
+A common encoding scheme is Base64
+Base64 encoding is a method of representing binary data, such as files or data streams, using a limited set of ASCII characters.
+One character of a Base64 string encodes 6 binary digits (bits), and so 4 characters of Base64 encode three 8-bit bytes.
+
+It is used at various places like in Email Attachments, Data Transmission, Data Storage
+
+Take the below string and try to decode It
+
+'aGFja2Vyc3ByZXl7SGlkZGVuU2lnbmFsXzIwMX0='
+

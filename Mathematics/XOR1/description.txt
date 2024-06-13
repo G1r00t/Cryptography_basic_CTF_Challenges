@@ -1,0 +1,1 @@
+Given the string 'alarm', XOR each character with the integer 7. Convert these integers back to a string and submit the flag as R3s3c{new_string}.
