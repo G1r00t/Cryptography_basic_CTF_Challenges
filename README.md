@@ -71,8 +71,6 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 ## Contact
 If you have any questions or need further assistance, feel free to reach out:
 
-GitHub: G1r00t
-
 Email : rhythmmundra777@gmail.com
 
 Happy hacking!
