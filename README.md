@@ -55,10 +55,6 @@ To get started with these challenges, follow these steps:
     cd Cryptography_basic_CTF_Challenges
     ```
 
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## How to Use
 
